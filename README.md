@@ -1,4 +1,6 @@
 # Portable Inspection System Repository
 ## Authors: Wei-Ting Teo, Kenji Wong, Hang Sun, Botao Dong
 
+Quality inspection plays a critical role in manufacturing, significantly reducing the need for rework. This paper introduces a cost-effective and portable industrial inspection system controlled by Python, operating on a Raspberry Pi Model 4B. To achieve precise low-level motion control, we employ the Arduino Mega along with the Marlin firmware. Furthermore, we have developed a trainable module designed for rapid adaptation to diverse industrial products. By integrating this module with a tailored lighting solution and an adaptive threshold approach, the inspection system achieves a 100% success rate when examining features on a PEBB120 metal chassis. This research highlights the potential to enhance manufacturing efficiency through the utilization of accessible technologies, offering more alternatives for small to medium-sized enterprises to inspect their products effectively.
+
 This repo contains firmware and CAD files used in creating a portable inspection system for the PEBB120 chassis manufactured by ABB. As detailed in the assembly guide, the manufacturable parts can be found under its respective folder.
